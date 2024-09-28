@@ -14,8 +14,8 @@ print("Age:", age)
 # a = 15
 # print (age + a)
 
-NewAge = age + 1
-print("New Age:", NewAge)
+age = age + 1
+print("New Age:", age)
 
 is_student = "Dmitry"
 
